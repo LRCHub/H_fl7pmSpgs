@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "またあえるかな",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-27T23:11:02.773346Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "またあえるかな",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_またあえるかな_サンボマスター.txt"
+    }
+  ]
+}
